@@ -6,20 +6,20 @@ body {
 }
 
 header {
-    background-color: #990000; /* MSJ red */
+    background-color: #063373;
     color: white;
     padding: 20px;
     text-align: center;
 }
 
 nav {
-    background-color: #222;
+    background-color: white;
     padding: 10px;
     text-align: center;
 }
 
 nav a {
-    color: white;
+    color: black;
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
@@ -43,7 +43,7 @@ img {
 }
 
 footer {
-    background-color: #990000;
+    background-color: #000000;
     color: white;
     text-align: center;
     padding: 15px;
