@@ -73,3 +73,21 @@ footer {
 .dark-mode footer {
     background-color: black;
 }
+.roster-link {
+    display: block;
+    width: fit-content;
+    margin: 40px auto;
+    padding: 12px 20px;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #002F6C;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.roster-link:hover {
+    background-color: #FDBB30;
+    color: black;
+}
